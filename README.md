@@ -1,0 +1,2 @@
+# activityRecognize
+learning note
